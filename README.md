@@ -17,3 +17,9 @@ For all other information, please refer to the following documents in https://gi
 3. Project related datat files:
 4. result file: answer.txt
 5. input data: train.jsonl, test.jsonl
+
+If you experience any issues running our code or you have any questions regarding to our project details, please send us an email to organize a Zoom Meeting. Thanks.
+Contact Emails:
+Liping Xie: lipingx2@illinois.edu
+Zijing Chen: zijingc3@illinois.edu
+Zuliang Weng: zwe@illinois.edu

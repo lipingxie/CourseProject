@@ -32,3 +32,9 @@ Liping Xie: lipingx2@illinois.edu
 Zijing Chen: zijingc3@illinois.edu
 
 Zuliang Weng: zwe@illinois.edu
+
+
+==========Updated on 15th December =========
+
+Some reviewers reported the code will fail in the upload file step, it seems it is related to the Broswer settings or Broswer limitations. 
+To ensure the code can be executed correctly in Colab, please use Chrome normal window. If execute the code in Chrome incognito window, the file upload button will not be enabled and just fail the step. "Execution Reslut" file is attached to confirm the code can be executed correctly.
